@@ -8,9 +8,9 @@ by
 ### Class Roll No.: 2030009
 ### Branch: Mechanical Engineering
 ### Batch: 2020-24
-### Session: Odd Semester 2020-21
+### Session: Semester 1
 
-## Submitted to: Prof. H. S. Rai
+## Submitted to: Prof. Hanit Karwal
 
 ---
 
